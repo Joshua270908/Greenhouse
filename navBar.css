@@ -1,0 +1,37 @@
+body
+{
+    background-image: url("https://media.istockphoto.com/id/941391600/vector/vector-fast-food-pattern-fast-food-seamless-background.jpg?s=612x612&w=0&k=20&c=bG-MX7XPHD23TEBCEnlFP2ie9SwjSy6vozT9SVh7Lc8=");
+}
+#navBar
+{
+    text-align: center;
+
+}
+.navBar
+{
+    list-style-type:none;
+    overflow: hidden;
+    margin: 10px;
+    padding: 25px;
+    background-color: darkgrey;
+}
+
+.navBar li
+{
+    display: inline;
+    margin-right: 10px;
+}
+.navBar li a
+{
+
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.navBar li a:hover
+{
+    background-color: black;
+}
